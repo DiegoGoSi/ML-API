@@ -1,0 +1,6 @@
+{'filename': 'test', 'prediction': 'test-pred', 'score': 1. }
+{'filename': 'test', 'prediction': 'test-pred', 'score': 1. }
+{'filename': '0a7c757a80f2c5b13fa7a2a47a683593.jpeg', 'prediction': 'Eskimo_dog', 'score': 0.9345999956130981 }
+{'filename': 'f401fc7bab4cd3c67468fa8451c47ea1.jpg', 'prediction': 'Egyptian_cat', 'score': 0.6801999807357788 }
+{'filename': 'b287aeb0b61c39611b0d275bd2106071.jpg', 'prediction': 'menu', 'score': 0.16990000009536743 }
+{'filename': 'test', 'prediction': 'test-pred', 'score': 1. }
